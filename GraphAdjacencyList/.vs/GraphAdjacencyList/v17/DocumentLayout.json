@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirafra\\Desktop\\Training Code\\GraphAdjacencyList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4779DE96-A9B2-4DCC-83B4-A0B6ABEDB9DE}|GraphAdjacencyList\\GraphAdjacencyList.vcxproj|C:\\Users\\Mirafra\\Desktop\\Training Code\\GraphAdjacencyList\\GraphAdjacencyList\\GraphAdjacencyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4779DE96-A9B2-4DCC-83B4-A0B6ABEDB9DE}|GraphAdjacencyList\\GraphAdjacencyList.vcxproj|solutionrelative:GraphAdjacencyList\\GraphAdjacencyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphAdjacencyList.cpp",
+              "DocumentMoniker": "C:\\Users\\Mirafra\\Desktop\\Training Code\\GraphAdjacencyList\\GraphAdjacencyList\\GraphAdjacencyList.cpp",
+              "RelativeDocumentMoniker": "GraphAdjacencyList\\GraphAdjacencyList.cpp",
+              "ToolTip": "C:\\Users\\Mirafra\\Desktop\\Training Code\\GraphAdjacencyList\\GraphAdjacencyList\\GraphAdjacencyList.cpp",
+              "RelativeToolTip": "GraphAdjacencyList\\GraphAdjacencyList.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T05:55:38.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

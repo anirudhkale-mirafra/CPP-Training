@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirafra\\Desktop\\Training Code\\BFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AC8223-21C6-4388-A3EC-FF2D05D46BA7}|BFS\\BFS.vcxproj|C:\\Users\\Mirafra\\Desktop\\Training Code\\BFS\\BFS\\BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2AC8223-21C6-4388-A3EC-FF2D05D46BA7}|BFS\\BFS.vcxproj|solutionrelative:BFS\\BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BFS.cpp",
+              "DocumentMoniker": "C:\\Users\\Mirafra\\Desktop\\Training Code\\BFS\\BFS\\BFS.cpp",
+              "RelativeDocumentMoniker": "BFS\\BFS.cpp",
+              "ToolTip": "C:\\Users\\Mirafra\\Desktop\\Training Code\\BFS\\BFS\\BFS.cpp*",
+              "RelativeToolTip": "BFS\\BFS.cpp*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T10:49:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
